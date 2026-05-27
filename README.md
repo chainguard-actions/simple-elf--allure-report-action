@@ -8,7 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
-| v1.13 | [`v1.13`](https://github.com/chainguard-actions/simple-elf-allure-report-action/tree/v1.13) | — |
+| v1.13 | [`v1.13`](https://github.com/chainguard-actions/simple-elf-allure-report-action/tree/v1.13) | [`53ebb75`](https://github.com/simple-elf/allure-report-action/commit/53ebb757a2097edc77c53ecef4d454fc2f2f774c) |
 
 ## Privacy
 
